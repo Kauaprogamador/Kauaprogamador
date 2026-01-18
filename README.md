@@ -21,6 +21,9 @@ Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Conclu
             src="https://custom-icon-badges.demolab.com/github/followers/Kauaprogamador?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/kaaua_.santos/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%40kaaua_.santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
