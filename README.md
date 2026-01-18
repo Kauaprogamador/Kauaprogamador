@@ -29,10 +29,7 @@ Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Conclu
 
 ---
 
-### 👾 Linguagens e Tecnologias
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-          
+### 👾 Linguagens e Tecnologias      
 <img 
     align="left" 
     alt="HTML"
