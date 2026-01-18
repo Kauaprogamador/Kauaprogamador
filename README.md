@@ -2,7 +2,7 @@
 
 # Kauã Dos Santos Lima 👨‍💻
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack  `**
 
 Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio na EEEP LUcas Emmanuel Lima Pinheiro, com o curso técnico em Finanças. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e desenvolvimento.
 
