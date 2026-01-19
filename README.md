@@ -1,8 +1,6 @@
-
-
 # Kauã Dos Santos Lima 👨‍💻
 
-**`Desenvolvedor FullStack  `**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio na EEEP LUcas Emmanuel Lima Pinheiro, com o curso técnico em Finanças. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e desenvolvimento.
 
@@ -29,7 +27,17 @@ Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Conclu
 
 ---
 
-### 👾 Linguagens e Tecnologias      
+### 👾 Linguagens e Tecnologias
+
+ <img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+     />
+          
 <img 
     align="left" 
     alt="HTML"
@@ -54,7 +62,7 @@ Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+<!--<img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
@@ -125,7 +133,7 @@ Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Conclu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+/>-->
 <img 
     align="left" 
     alt="Git" 
@@ -154,14 +162,16 @@ Meu nome é Kauã dos Santos Lima, tenho 19 anos e sou natural do Ceará. Conclu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Kauaprogamador&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaprogamador&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+</p>
 
 </p>
